@@ -1,0 +1,4 @@
+id,careerCode,flight_code,flight_name,stops,cabinType,currency,departure_time,arrival_time,duration,total_price,tax,base,cabin_qty,checkin_allowance,checkin_qty
+c8dd4f7b1f391fa72a73f533780a3b781429cf6151e6cea1daff5009376810aa,LH,LH-575,Lufthansa,1 Stop,Economy,USD,,,"{'text': '23h 55m', 'value': 1435}",,,,,,
+0c5101d423e1dbdc073965d0ad052ede4ca4505aae0ddca69850eed3fb8d5b27,LH,LH-575,Lufthansa,1 Stop,Economy,USD,,,"{'text': '33h 55m', 'value': 2035}",,,,,,
+a1cd4149184988d6bbd1c72236e4b686b9dd64fcb8330dd731ec04e7814a68b1,BA,BA-2040,British Airways,1 Stop,Economy,USD,,,"{'text': '21h 15m', 'value': 1275}",,,,,,
